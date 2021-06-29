@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "F Israel",
+        "Role": "GoalKeeper",
+        "Age": "21"
+    },
+    {
+        "Name": "M Demiral",
+        "Role": "Defender",
+        "Age": "23"
+    },
+    {
+        "Name": "A Di Pardo",
+        "Role": "Defender",
+        "Age": "21"
+    },
+    {
+        "Name": "D Kulusevski",
+        "Role": "Midfielder",
+        "Age": "21"
+    },
+    {
+        "Name": "D Peeters",
+        "Role": "Midfielder",
+        "Age": "22"
+    },
+    {
+        "Name": "N Fagioli",
+        "Role": "Striker",
+        "Age": "20"
+    },
+    {
+        "Name": "G Vrioni",
+        "Role": "Striker",
+        "Age": "22"
+    }
+]

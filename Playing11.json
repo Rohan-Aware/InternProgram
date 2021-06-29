@@ -1,0 +1,57 @@
+[
+    {
+        "Name": "G Buffon",
+        "Role": "GoalKeeper",
+        "Age": "43"
+    },
+    {
+        "Name": "M de Ligt",
+        "Role": "Defender",
+        "Age": "21"
+    },
+    {
+        "Name": "A Sandro",
+        "Role": "Defender",
+        "Age": "30"
+    },
+    {
+        "Name": "L Bonucci",
+        "Role": "Defender",
+        "Age": "34"
+    },
+    {
+        "Name": "G Chiellini",
+        "Role": "Defender",
+        "Age": "36"
+    },
+    {
+        "Name": "Arthur",
+        "Role": "Midfielder",
+        "Age": "24"
+    },
+    {
+        "Name": "F Chiesa",
+        "Role": "Midfielder",
+        "Age": "23"
+    },
+    {
+        "Name": "J Cuadrado",
+        "Role": "Midfielder",
+        "Age": "32"
+    },
+    {
+        "Name": "C Ronaldo",
+        "Role": "Striker",
+        "Age": "36"
+    },
+    {
+        "Name": "P Dybala",
+        "Role": "Striker",
+        "Age": "27"
+    },
+    {
+        "Name": "A Morata",
+        "Role": "Striker",
+        "Age": "28"
+    }
+]
